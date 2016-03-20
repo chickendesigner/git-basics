@@ -1,0 +1,4 @@
+# exclude PS/AI files
+*.psd
+*.ai
+
